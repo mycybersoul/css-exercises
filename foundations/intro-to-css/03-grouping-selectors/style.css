@@ -1,0 +1,13 @@
+.op1, .op2{
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif
+}
+
+.op1 {
+    background-color: rgb(12, 12, 12);
+    color: rgba(255, 255, 255, 0.892);
+
+}
+.op2 {
+    background-color: rgb(235, 235, 0);
+}
