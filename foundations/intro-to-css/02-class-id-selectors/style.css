@@ -1,0 +1,19 @@
+.classcolor {
+    background-color:rgb(233, 185, 192);
+    font-family: verdana, "DejaVu Sans", sans-serif
+}
+
+#bigblue {
+    color: rgb(30, 30, 236);
+    font-size: 36px;
+}
+
+.font24 {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(170, 238, 170);
+    font-size: 24px;
+    font-weight: bold;
+}
